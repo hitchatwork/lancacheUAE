@@ -1,3 +1,15 @@
 pls.patch.station.sony.com
 gs2.ww.prod.dl.playstation.net
 gs2.sonycoment.loris-e.llnwd.net
+*.ps4.update.playstation.net
+ps4updptl.eu.np.community.playstation.net
+ps4updptl.uk.np.community.playstation.net
+sonycoment-1.hs.llnwd.net
+*.gs2.sonycoment.loris-e.llnwd.net
+gs2-ww-prod.psn.akadns.net
+*.gs2-ww-prod.psn.akadns.net
+gs2.ww.prod.dl.playstation.net.edgesuite.net
+*.gs2.ww.prod.dl.playstation.net.edgesuite.net
+playstation4.sony.akadns.net
+theia.dl.playstation.net
+tmdb.np.dl.playstation.net
